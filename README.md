@@ -10,3 +10,9 @@ Note that all of this data is posed against a white background.
 
 Each image is 300×300 pixels in 24-bit color
 
+
+# Dataset
+The dataset for training and testing the moedel is available in the link below.
+
+
+http://www.laurencemoroney.com/rock-paper-scissors-dataset/
