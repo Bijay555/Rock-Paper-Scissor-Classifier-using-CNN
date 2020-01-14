@@ -16,3 +16,9 @@ The dataset for training and testing the moedel is available in the link below.
 
 
 http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+
+
+Sample Pics
+![alt text](https://github.com/Bijay555/Rock-Paper-Scissor-Classifier-using-CNN/blob/master/pics_sample/paper4.png)
+![alt text](https://github.com/Bijay555/Rock-Paper-Scissor-Classifier-using-CNN/blob/master/pics_sample/rock1.png)
+![alt text](https://github.com/Bijay555/Rock-Paper-Scissor-Classifier-using-CNN/blob/master/pics_sample/scissors1.png)
